@@ -1,14 +1,12 @@
+// models/Content.js
 import mongoose from "mongoose";
 
-const contentSchema = mongoose.Schema(
-  {
-    text: {
-      type: String,
-      required: true,
-    },
-  },
-  { timestamps: true },
-);
+const contentSchema = new mongoose.Schema({
+  language: String,
+  title: String,
+  description: String,
+  button: String,
+});
 
 const Content = mongoose.model("Content", contentSchema);
 
