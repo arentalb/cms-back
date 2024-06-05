@@ -1,0 +1,4 @@
+
+ mongoexport --uri mongodb+srv://arentalb00:xKZFbxbicsyUEBe@cluster0.qsvhdcs.mongodb.net/content --collection translations --type json --out translations.json
+
+ this command is used to export data from mongodb atlas

@@ -1,0 +1,26 @@
+{"_id":{"$oid":"66606ecf36e33ddcbac14b56"},"language":"en","namespace":"home","key":"title","value":"English: Home Page","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b57"},"language":"en","namespace":"home","key":"content","value":"English: Welcome to the home page3","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b58"},"language":"kr","namespace":"home","key":"title","value":"Kurdish: Kurdish title","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b59"},"language":"kr","namespace":"home","key":"content","value":"Kurdish : Kurdish content","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b5a"},"language":"en","namespace":"about","key":"title","value":"English: About Page hi","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b5b"},"language":"en","namespace":"about","key":"content","value":"English: Welcome to the about page","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b5c"},"language":"kr","namespace":"about","key":"title","value":"Kurdish: Kurdish about title","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b5d"},"language":"kr","namespace":"about","key":"content","value":"Kurdish: Kurdish about content","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b5e"},"language":"en","namespace":"buttons","key":"submit","value":"English: Submit","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b5f"},"language":"en","namespace":"buttons","key":"cancel","value":"English: Cancel","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b60"},"language":"kr","namespace":"buttons","key":"submit","value":"Kurdish: Kurdish submit","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b61"},"language":"kr","namespace":"buttons","key":"cancel","value":"Kurdish: Kurdish cancel","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b62"},"language":"en","namespace":"footer","key":"copyright","value":"English: © 2024 Company Name ss","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b63"},"language":"en","namespace":"footer","key":"contact","value":"English: Contact Us","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b64"},"language":"kr","namespace":"footer","key":"copyright","value":"Kurdish updated: © 2024 Kurdish Company Name","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b65"},"language":"kr","namespace":"footer","key":"contact","value":"Kurdish: Kurdish Contact Us","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b66"},"language":"en","namespace":"header","key":"title","value":"English: Header Title","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b67"},"language":"en","namespace":"header","key":"subtitle","value":"English: Header Subtitle","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b68"},"language":"kr","namespace":"header","key":"title","value":"Kurdish: Kurdish Header Title","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b69"},"language":"kr","namespace":"header","key":"subtitle","value":"Kurdish: Kurdish Header Subtitle","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b6a"},"language":"en","namespace":"nav","key":"home","value":"English: Home","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b6b"},"language":"kr","namespace":"nav","key":"home","value":"Kurdish: Kurdish Home","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b6c"},"language":"en","namespace":"nav","key":"about","value":"English: About","__v":0}
+{"_id":{"$oid":"66606ecf36e33ddcbac14b6d"},"language":"kr","namespace":"nav","key":"about","value":"Kurdish: Kurdish About","__v":0}
+{"_id":{"$oid":"6660952c8714d17575c53109"},"key":"test","language":"en","namespace":"home","__v":0,"value":"test updated"}
+{"_id":{"$oid":"6660954e8714d17575c53797"},"language":"kr","namespace":"home","key":"test","__v":0,"value":"test updated kurdish "}
