@@ -1,8 +1,6 @@
 # Multilingual Enterprise App - Backend
 Also, you can check out the frontend repository for this backend at https://github.com/arentalb/cms-front
 
-This repository contains the backend code for the Multilingual Enterprise App. The application supports features for storing and retrieving multilingual content. The admin can change the content of the page for any given language through an admin dashboard. The updated content is saved in the database and provided to the frontend via APIs.
-
 Welcome to the backend repository for the Multilingual Enterprise App! This project is developed using Nodejs, Expressjs , mongoose, and MongoDB  for internationalization.
 
 
