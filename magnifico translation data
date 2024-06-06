@@ -1,0 +1,30 @@
+{"_id":{"$oid":"66610c878714d17575dcfebb"},"key":"product","language":"en","namespace":"header","__v":0,"value":"product"}
+{"_id":{"$oid":"66610c938714d17575dd017b"},"key":"contact","language":"en","namespace":"header","__v":0,"value":"contact"}
+{"_id":{"$oid":"66610c958714d17575dd01d9"},"key":"help","language":"en","namespace":"header","__v":0,"value":"help"}
+{"_id":{"$oid":"666111178714d17575ddce6d"},"key":"product","language":"kr","namespace":"header","__v":0,"value":"کاڵاکان"}
+{"_id":{"$oid":"666111218714d17575ddd071"},"key":"contact","language":"kr","namespace":"header","__v":0,"value":"پایوەندی"}
+{"_id":{"$oid":"6661112a8714d17575ddd1c8"},"namespace":"header","key":"help","language":"kr","__v":0,"value":"یارمەتی"}
+{"_id":{"$oid":"666111ac8714d17575dde8cd"},"key":"login","language":"kr","namespace":"header","__v":0,"value":"داخلبون"}
+{"_id":{"$oid":"666111c98714d17575ddedc3"},"key":"signup","language":"kr","namespace":"header","__v":0,"value":"خۆت تۆمار بکە"}
+{"_id":{"$oid":"666112cc8714d17575de1afc"},"key":"login","language":"en","namespace":"header","__v":0,"value":"login"}
+{"_id":{"$oid":"666112d08714d17575de1b93"},"language":"en","namespace":"header","key":"signup","__v":0,"value":"signup"}
+{"_id":{"$oid":"666117bc8714d17575def71b"},"key":"title","language":"en","namespace":"hero","__v":0,"value":"Team projects, done well"}
+{"_id":{"$oid":"666118018714d17575df02c7"},"key":"description","language":"en","namespace":"hero","__v":0,"value":"The only platform that gives your team all the tools needed to work\n          together on their awesome projects."}
+{"_id":{"$oid":"6661182c8714d17575df0a50"},"language":"en","namespace":"hero","key":"signup","__v":0,"value":"Sign Up Here"}
+{"_id":{"$oid":"6661184e8714d17575df103c"},"key":"title","language":"kr","namespace":"hero","__v":0,"value":"پڕۆژەکانی تیم، بە باشی ئەنجام دراون"}
+{"_id":{"$oid":"6661185a8714d17575df121f"},"namespace":"hero","key":"description","language":"kr","__v":0,"value":"تاکە پلاتفۆرم کە هەموو ئەو ئامرازانەی کە پێویستن بۆ کارکردن بە تیمەکەت دەدات\n پێکەوە لەسەر پڕۆژە سەرسوڕهێنەرەکانیان."}
+{"_id":{"$oid":"6661186a8714d17575df14bc"},"language":"kr","namespace":"hero","key":"signup","__v":0,"value":"خۆت تۆمار بکە"}
+{"_id":{"$oid":"66611c138714d17575dfb760"},"namespace":"footer","key":"rights","language":"en","__v":0,"value":"@ 2023. All rights reserved."}
+{"_id":{"$oid":"66611c1b8714d17575dfb878"},"namespace":"footer","key":"terms","language":"en","__v":0,"value":"Terms"}
+{"_id":{"$oid":"66611c218714d17575dfb988"},"language":"en","namespace":"footer","key":"privacy","__v":0,"value":"Privacy"}
+{"_id":{"$oid":"66611c308714d17575dfbbe5"},"namespace":"footer","key":"support","language":"en","__v":0,"value":"Support"}
+{"_id":{"$oid":"66611c348714d17575dfbc85"},"namespace":"footer","key":"about","language":"en","__v":0,"value":"About"}
+{"_id":{"$oid":"66611c388714d17575dfbd29"},"key":"resources","language":"en","namespace":"footer","__v":0,"value":"Resources"}
+{"_id":{"$oid":"66611c3c8714d17575dfbddb"},"language":"en","namespace":"footer","key":"contact","__v":0,"value":"Contact"}
+{"_id":{"$oid":"66611c678714d17575dfc586"},"namespace":"footer","key":"rights","language":"kr","__v":0,"value":"@ 2023. هەموو مافەکان پارێزراوە."}
+{"_id":{"$oid":"66611c728714d17575dfc7b9"},"namespace":"footer","key":"terms","language":"kr","__v":0,"value":"مەرجەکان"}
+{"_id":{"$oid":"66611c7b8714d17575dfc953"},"key":"privacy","language":"kr","namespace":"footer","__v":0,"value":"تایبەتمەندیەتی"}
+{"_id":{"$oid":"66611c848714d17575dfcb7f"},"key":"support","language":"kr","namespace":"footer","__v":0,"value":"پشتیوانی"}
+{"_id":{"$oid":"66611c8c8714d17575dfccb1"},"key":"about","language":"kr","namespace":"footer","__v":0,"value":"دەربارەی"}
+{"_id":{"$oid":"66611c968714d17575dfce46"},"namespace":"footer","key":"resources","language":"kr","__v":0,"value":"سەرچاوەکان"}
+{"_id":{"$oid":"66611ca08714d17575dfd025"},"namespace":"footer","key":"contact","language":"kr","__v":0,"value":"پەیوەندی"}
